@@ -1,2 +1,4 @@
 # LifeCron
-Un cronómetro para comparar la perspectiva del tiempo de 3 especies.
+Perspective of time for diferent species. 
+
+
