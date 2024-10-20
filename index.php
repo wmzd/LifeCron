@@ -6,6 +6,7 @@
     <title>LifeCron</title>
 </head>
 <body onload="startTimers()">
+    <div><h1>Perspective of Time</h1></div>
   <div>
     <h2>Thraxan</h2>
     <div id="display1">00:00:00</div>
